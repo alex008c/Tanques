@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class GameManager : MonoBehaviour
 {
-    public int m_NumRoundsToWin = 5;
+    public int m_NumRoundsToWin = 4;
     public float m_StartDelay = 3f;
     public float m_EndDelay = 3f;
     public float m_MaxGameTime = 240f; // ⏳ Tiempo límite de 4 minutos
